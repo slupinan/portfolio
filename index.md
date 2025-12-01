@@ -14,6 +14,6 @@ Below is a preview of the report:
 ![HR Workforce Dashboard](HR_Workforce_Dashboard/HR_Workforce_Dashboard.gif)
 
 
-## More Projects Coming Soon
+### More Projects Coming Soon
 
 I am actively expanding this portfolio — additional data projects will be added soon.
